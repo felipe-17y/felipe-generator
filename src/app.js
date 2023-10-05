@@ -7,5 +7,7 @@ import "./assets/img/4geeks.ico";
 
 window.onload = function() {
   //write your code here
+  let action = ["ate", "peed", "crushed", "broke"];
+
   console.log("Hello Rigo from the console!");
 };
